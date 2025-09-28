@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276633789664",
+    "project_id": "workconnectbetter",
+    "storage_bucket": "workconnectbetter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276633789664:android:a7e91abd0d3351b3fadc85",
+        "android_client_info": {
+          "package_name": "com.example.work_connectbetter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB12qPiQiGghpDE6RzmIXzoiuOHiayY97U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
